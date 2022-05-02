@@ -1,0 +1,14 @@
+math
+bs4
+pandas
+requests
+BeautifulSoup
+re
+google.colab
+pathlib
+sqlalchemy
+datetime
+numpy
+matplotlib
+seaborn
+keplergl
